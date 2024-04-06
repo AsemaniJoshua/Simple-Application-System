@@ -1,0 +1,62 @@
+#myAnchorPane{
+       -fx-background:linear-gradient(grey,grey);
+       -fx-background-repeat: no-repeat;
+       -fx-background-attachment: fixed;
+}
+#Footercover{
+    -fx-background-color: black;
+}
+#Menubar{
+    -fx-background-color: yellow;
+}
+#display_Username{
+    -fx-background-color: white;
+}
+#CoverBackground1{
+    -fx-background-color: black;
+}
+#Deposit1{
+    -fx-background-color: yellow;
+}
+#Withdraw1{
+    -fx-background-color: yellow;
+}
+#Balance1{
+    -fx-background-color: yellow;
+}
+#CardServices1{
+    -fx-background-color: yellow;
+}
+#CustomerServices1{
+    -fx-background-color: yellow;
+}
+#Issue1{
+    -fx-background-color: yellow;
+}
+#calculator1{
+    -fx-background-color: yellow;
+}
+#LogOut1{
+    -fx-background-color: yellow;
+}
+#BalanceDisplay{
+    -fx-background-color: white;
+}
+#DepositDisplayer{
+    -fx-background-color: white;
+}
+#DepositCollector{
+    -fx-background-color: white;
+}
+#WithdrawalCollector{
+    -fx-background-color: white;
+}
+#DepositAccount{
+    -fx-background-color: white;
+}
+#WithdrawFromAccount{
+    -fx-background-color: white;
+}
+#WithdrawalDisplayed{
+    -fx-background-color: white;
+}

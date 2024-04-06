@@ -1,0 +1,64 @@
+.stage{
+      -fx-width:100%;
+      -fx-height:100%;
+}
+.scene{
+        -fx-width:100%;
+        -fx-height:100%;
+}
+#myAnchorPane{
+       -fx-background:linear-gradient(gray,gray);
+       -fx-background-repeat: no-repeat;
+       -fx-background-attachment: fixed;
+}
+#MenuBar{
+        -fx-background-color: yellow;
+
+}
+#HomeIcon{
+        -fx-border-radius: 50px;
+
+}
+#HomeTab{
+       -fx-border-radius: 50px;
+       -fx-text-align: right;
+}
+#AboutTab{
+        -fx-border-radius: 50px;
+        -fx-text-align: right;
+}
+#ContactUsTab{
+        -fx-border-radius: 50px;
+        -fx-text-align: right;
+}
+#LogInTab{
+        -fx-border-radius: 50px;
+        -fx-text-align: right;
+}
+#SignUpTab{
+        -fx-border-radius: 50px;
+        -fx-text-align: right;
+}
+#Body1{
+    -fx-background-color: black;
+}
+#Register{
+    -fx-background-color: yellow;
+    -fx-border-radius: 50px;
+}
+#BankingServices{
+    -fx-background-color: yellow;
+    -fx-border-radius: 50px;
+}
+#ContactUs{
+    -fx-background-color: yellow;
+    -fx-border-radius: 50px;
+}
+#LogIn{
+    -fx-background-color: yellow;
+    -fx-border-radius: 50px;
+}
+#Footer{
+    -fx-background-color: brown;
+}
+
